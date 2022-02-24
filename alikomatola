@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>alikomatola</title>
+    <link rel="stylesheet" href="Alikomatola.css">
+</head>
+<body>
+    <div id="Top_section">
+
+        <!-- Background image, grdient, and decos -->  
+        <img id="Alikoimage" src="alikoimg.png" srcset="alikoimg.png 1x, alikoimg1.png 2x">
+        <div id="deco">
+            <svg class="Rectangle"><rect id="Rectangle" rx="0" ry="0" x="0" y="0" width="100%" height="771"></rect></svg>
+        </div>
+        <svg class="Backgroung_Gradient_bs">
+		<linearGradient id="Backgroung_Gradient_bs" spreadMethod="pad" x1="0" x2="0.887" y1="0" y2="0.929">
+			<stop offset="0" stop-color="#090d39" stop-opacity="1"></stop>
+			<stop offset="0" stop-color="#090d39" stop-opacity="0.929"></stop>
+			<stop offset="0" stop-color="#090d39" stop-opacity="0.933"></stop>
+			<stop offset="0" stop-color="#090d39" stop-opacity="0.933"></stop>
+			<stop offset="0.5369" stop-color="#090d39" stop-opacity="1"></stop>
+			<stop offset="0.6929" stop-color="#090d39" stop-opacity="0.961"></stop>
+			<stop offset="0.7491" stop-color="#090d39" stop-opacity="0.898"></stop>
+			<stop offset="1" stop-color="#090d39" stop-opacity="0.384"></stop>
+		</linearGradient>
+		<rect id="Backgroung_Gradient_bs" rx="0" ry="0" x="0" y="0" width="100%" height="771">
+		</rect>
+	    </svg>
+
+        <!-- Logo in SVG format -->
+        <div id="Logo"><div id="Logosvg">
+                <svg class="Path_89828" viewBox="976.228 -161.358 65.93 69.753">
+                    <path id="Path_89828" d="M 1028.014282226562 -146.3333435058594 L 1019.327270507812 -146.3333435058594 L 1007.651611328125 -91.60595703125 L 1024.08642578125 -91.60595703125 C 1024.08642578125 -91.60595703125 1028.964965820312 -91.29019165039062 1031.086791992188 -102.2343597412109 C 1033.20849609375 -113.1785278320312 1035.938354492188 -125.5614166259766 1035.938354492188 -125.5614166259766 L 1041.94287109375 -153.3914031982422 C 1041.94287109375 -153.3914031982422 1043.620971679688 -160.0165557861328 1037.604614257812 -160.9452362060547 C 1031.588134765625 -161.8739166259766 1008.771728515625 -160.9452362060547 1008.771728515625 -160.9452362060547 L 976.228271484375 -101.8654251098633 L 998.27197265625 -101.8654251098633 L 996.8536376953125 -95.09725189208984 L 1007.198974609375 -105.2061309814453 L 1001.546630859375 -117.2008666992188 L 1000.178344726562 -110.4791870117188 L 992.027099609375 -110.4791870117188 L 1005.128540039062 -134.7888946533203 L 1001.812133789062 -118.3928527832031 L 1007.794677734375 -105.5760116577148 L 1017.772338867188 -150.7832183837891 L 1030.952392578125 -151.1048889160156 C 1030.952392578125 -151.1048889160156 1032.552368164062 -151.1260223388672 1032.249389648438 -149.3651885986328 C 1031.9462890625 -147.6043395996094 1022.3759765625 -102.5437850952148 1022.3759765625 -102.5437850952148 C 1022.3759765625 -102.5437850952148 1022.1298828125 -101.1305694580078 1020.48388671875 -101.1456756591797 C 1018.837890625 -101.1607666015625 1018.630737304688 -101.1456756591797 1018.630737304688 -101.1456756591797 L 1028.014282226562 -146.3333435058594 Z">
+                    </path>
+                </svg>
+                <svg class="Path_89829" viewBox="1069.487 100.93 11.545 13.627">
+                    <path id="Path_89829" d="M 1080.763671875 102.1368865966797 L 1078.14501953125 114.5562515258789 L 1069.48681640625 114.5562515258789 L 1070.011596679688 111.697639465332 L 1081.031982421875 100.9297485351562 L 1080.763671875 102.1368865966797 Z">
+                    </path>
+                </svg>
+                <svg class="Path_89831" viewBox="947.077 106.571 25.657 8.494">
+                    <path id="Path_89831" d="M 952.409912109375 106.5708312988281 L 947.077392578125 115.0650024414062 L 971.1973876953125 115.0650024414062 L 972.73486328125 106.5708312988281 L 952.409912109375 106.5708312988281 Z">
+                    </path>
+                </svg>
+        </div>
+
+        <!--Navigation bar starts here-->
+        <div id="Services"><span>Services</span></div>
+        <div id="My_works"><span>My works</span></div>
+        <div id="Blog"><span>Blog</span></div>
+        <div id="Contact_Us"><span>Contact Us</span></div>
+        <svg class="Stroke_button"> <rect id="Stroke_button" rx="3" ry="3" x="0" y="0" width="112" height="36"> </rect></svg>
+        <div id="My_resume"><span>My resume</span></div>
+
+
+         <!-- Content on top section -->
+        <div id="Aliko_matola"><span>Aliko matola</span></div>
+        <div>
+            <svg class="circle2"><ellipse id="circle2" rx="3" ry="3" cx="3" cy="3"></ellipse></svg>
+            <svg class="circle1"><ellipse id="circle1" rx="3" ry="3" cx="3" cy="3"></ellipse></svg>
+        </div>
+        <div id="UX_Designer"><span>UX Designer</span> </div>
+        <div id="UI_Designer"><span>UI Designer</span></div>
+        <div id="Interaction_Designer"><span>Interaction Designer</span></div>
+        <div id="top_paragraph">
+            <span>
+                  I am a creative, hardworking and ambitious UX/UI Designer with a talent of thinking outside <br/>
+                  the box and come up with innovative ideas and designs.<br/><br/>
+                  I pride myself in providing excellent service and seeing the positive impact I make in people’s <br/>
+                  lives and businesses.
+            </span>
+        </div>
+
+        <!-- Call to Action -->
+        <div>
+            <svg class="fill_Button"><rect id="fill_Button" rx="4" ry="4" x="0" y="0" width="273" height="50"> </rect></svg>
+            <div id="CTA"><span>Start with free consultation</span></div>
+        </div>
+    </div>  
+</body>
+</html>
